@@ -83,9 +83,39 @@ math_for_data_science/
 │   └── 06_pca_foundations.ipynb
 │
 ├── calculus/
+│   ├── 01_functions_and_limits.ipynb
+│   ├── 02_derivatives.ipynb
+│   ├── 03_partial_derivatives.ipynb
+│   ├── 04_gradients.ipynb
+│   ├── 05_chain_rule.ipynb
+│   └── 06_multivariable_optimization.ipynb
+│
 ├── probability/
+│   ├── 01_probability_basics.ipynb
+│   ├── 02_conditional_probability.ipynb
+│   ├── 03_random_variables.ipynb
+│   ├── 04_probability_distributions.ipynb
+│   ├── 05_expected_value_variance.ipynb
+│   └── 06_bayes_theorem.ipynb
+│
 ├── statistics/
+│   ├── 01_descriptive_statistics.ipynb
+│   ├── 02_covariance_correlation.ipynb
+│   ├── 03_sampling.ipynb
+│   ├── 04_confidence_intervals.ipynb
+│   ├── 05_hypothesis_testing.ipynb
+│   └── 06_maximum_likelihood.ipynb
+│
 ├── optimization/
+│   ├── 01_optimization_basics.ipynb
+│   ├── 02_gradient_descent.ipynb
+│   ├── 03_learning_rate.ipynb
+│   ├── 04_stochastic_gradient_descent.ipynb
+│   ├── 05_momentum.ipynb
+│   └── 06_adam.ipynb
+│
+├── assets/
+│   └── figures/
 │
 ├── README.md
 ├── requirements.txt
